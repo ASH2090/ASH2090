@@ -9,7 +9,7 @@
 - 🌱 Going deeper on cloud-native and DevOps — Docker, Kubernetes, CI/CD on Linux
 - ⚙️ Background in carrier-grade telecom (IMS) — test automation with Robot Framework, zero-defect releases on a live network
 - 💬 Ask me about Firebase architecture, real-time apps, or telecom-grade test automation
-- 📫 Reach me at **rememberabinav@gmail.com**
+- 📫 Reach me at **harsathabinavas@gmail.com**
 
 ### Connect
 
